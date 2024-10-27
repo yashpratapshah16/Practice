@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Practice\Practical2a\Practical2a\bin\Debug\Practical2a.exe.config
+C:\Users\Admin\source\repos\Practice\Practical2a\Practical2a\bin\Debug\Practical2a.exe
+C:\Users\Admin\source\repos\Practice\Practical2a\Practical2a\bin\Debug\Practical2a.pdb
+C:\Users\Admin\source\repos\Practice\Practical2a\Practical2a\obj\Debug\Practical2a.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Practice\Practical2a\Practical2a\obj\Debug\Practical2a.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Practice\Practical2a\Practical2a\obj\Debug\Practical2a.exe
+C:\Users\Admin\source\repos\Practice\Practical2a\Practical2a\obj\Debug\Practical2a.pdb

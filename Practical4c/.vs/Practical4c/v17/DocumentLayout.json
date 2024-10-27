@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Practice\\Practical4c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6AB3D9-EEC2-4F38-9350-663581C52FCD}|Practical4c\\Practical4c.csproj|c:\\users\\admin\\source\\repos\\practice\\practical4c\\practical4c\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7F6AB3D9-EEC2-4F38-9350-663581C52FCD}|Practical4c\\Practical4c.csproj|solutionrelative:practical4c\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6AB3D9-EEC2-4F38-9350-663581C52FCD}|Practical4c\\Practical4c.csproj|c:\\users\\admin\\source\\repos\\practice\\practical4c\\practical4c\\webusercontrol1.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{7F6AB3D9-EEC2-4F38-9350-663581C52FCD}|Practical4c\\Practical4c.csproj|solutionrelative:practical4c\\webusercontrol1.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebUserControl1.ascx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practical4c\\Practical4c\\WebUserControl1.ascx",
+              "RelativeDocumentMoniker": "Practical4c\\WebUserControl1.ascx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practical4c\\Practical4c\\WebUserControl1.ascx",
+              "RelativeToolTip": "Practical4c\\WebUserControl1.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-27T14:08:18.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practice\\Practical4c\\Practical4c\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Practical4c\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practice\\Practical4c\\Practical4c\\WebForm1.aspx",
+              "RelativeToolTip": "Practical4c\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-27T13:48:14.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

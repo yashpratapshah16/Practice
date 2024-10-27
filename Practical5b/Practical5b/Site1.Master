@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Practical5b.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div style="background-color:cornflowerblue">
+            <header>
+                <h1>My Web Application</h1>
+                <nav>
+                    <ul>
+                        <li><a href="page1.aspx">Page 1</a></li>f
+                        <li><a href="page2.aspx">Page 2</a></li>
+                    </ul>
+                </nav>
+            </header>
+        </div>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        <footer style="background-color:black;color:white">
+            <p>&copy; 2024 My Web Application</p>
+        </footer>
+    </form>
+</body>
+</html>

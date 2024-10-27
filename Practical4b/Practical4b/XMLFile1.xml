@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+	<Ad>
+		<ImageUrl>~/Images/ads1.png</ImageUrl>
+		<NavigateUrl>https://github.com/yashpratapshah16</NavigateUrl>
+		<AlternateText>Prodct 1</AlternateText>
+	</Ad>
+	<Ad>
+		<imageurl>~/Images/ads2.png</imageurl>
+		<NavigateUrl>https://kakashi123.tiiny.site/</NavigateUrl>
+		<AlternateText>Prodct 2</AlternateText>
+	</Ad>
+</Advertisements>
